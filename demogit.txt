@@ -1,2 +1,6 @@
  this is sample file for git demo.
 this is chanegs in demo file.
+
+
+checking revert with demo file.
+
